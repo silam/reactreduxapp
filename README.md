@@ -12,6 +12,9 @@ You need to learn these terminologies:
 - Dispatch
 - Store
 
+## React Redux Diagram explain
+
+![alt text](http://public/ReactReduxExplainDiagram.drawio (1).png
 
 
 ## Available Scripts

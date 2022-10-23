@@ -12,7 +12,8 @@ You need to learn these terminologies:
 - Dispatch
 - Store
 
-
+## Redux diagram explain
+![alt text](https://github.com/silam/reactreduxapp/blob/main/public/ReactReduxExplainDiagram.drawio%20(1).png)
 
 ## Available Scripts
 

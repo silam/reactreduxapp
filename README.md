@@ -1,6 +1,18 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It demonstrates how React Redux is working
+You need to learn these terminologies:
+
+- Reducer
+- Action
+- Action Creator
+- Actin Type
+- Action Payload
+- Dispatch
+- Store
+
+
 
 ## Available Scripts
 
